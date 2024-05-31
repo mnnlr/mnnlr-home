@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4523fea7.css",
+    "main.js": "/static/js/main.94758ab5.js",
+    "static/media/medium-shot-woman-working-laptop.jpg": "/static/media/medium-shot-woman-working-laptop.8a95697a319e9616ef86.jpg",
+    "static/media/shaking-hand-speaker.jpg": "/static/media/shaking-hand-speaker.9ac83d7e4161d335f50e.jpg",
+    "static/media/career.jpg": "/static/media/career.e5333b5cf7d8300e23f9.jpg",
+    "static/media/webdevelopmentimgthree.jpeg": "/static/media/webdevelopmentimgthree.324090b6ea7ba71eeb89.jpeg",
+    "static/media/webdevlopmentimgone.jpeg": "/static/media/webdevlopmentimgone.b14578410f5297dff20c.jpeg",
+    "static/media/digitalmarkeingimgtwo.jpeg": "/static/media/digitalmarkeingimgtwo.566a6614d2a78dd88566.jpeg",
+    "static/media/digitalmarkeingimgthree.jpeg": "/static/media/digitalmarkeingimgthree.b93fc2c856521664daf3.jpeg",
+    "static/media/webdevelopmentimgtwo.jpeg": "/static/media/webdevelopmentimgtwo.1303aa174cc573b95ff1.jpeg",
+    "static/media/appdevimagethree.jpeg": "/static/media/appdevimagethree.e2bd106df37548b8867b.jpeg",
+    "static/media/appdevimageone.jpeg": "/static/media/appdevimageone.fe1096d964ed9325203d.jpeg",
+    "static/media/digitalmarkeingimgfour.jpeg": "/static/media/digitalmarkeingimgfour.76c611787f02f5183eb5.jpeg",
+    "static/media/digitalmarkeingimgone.jpeg": "/static/media/digitalmarkeingimgone.4b79390f1d88d2222190.jpeg",
+    "static/media/logo1.jpeg": "/static/media/logo1.61ff3474799622765adf.jpeg",
+    "static/media/appdevimagetwo.jpeg": "/static/media/appdevimagetwo.bba72431fb15b33db978.jpeg",
+    "static/media/hiring.jpg": "/static/media/hiring.0e83a600899c47e21102.jpg",
+    "static/media/mnnlr logoone.jpg": "/static/media/mnnlr logoone.5cdd19f264b8a7bf3e05.jpg",
+    "static/media/mnllr-logo.jpg": "/static/media/mnllr-logo.ee9c08d7494bd6597194.jpg",
+    "static/media/ecommerceimgtwo.jpg": "/static/media/ecommerceimgtwo.5fc81eb611609eaf4f41.jpg",
+    "static/media/ecommerceimgthree.jpg": "/static/media/ecommerceimgthree.537c5700be39da4ee05e.jpg",
+    "static/media/career-path.png": "/static/media/career-path.d6063ce26439addb1f75.png",
+    "static/media/promote.png": "/static/media/promote.2b9a300398923842c0a9.png",
+    "static/media/app-development.png": "/static/media/app-development.f9d169e80e84e333a6d1.png",
+    "static/media/digital-services.png": "/static/media/digital-services.5ab8a91934d99190efdf.png",
+    "static/media/ecommerce.png": "/static/media/ecommerce.0feb97a34e43765929ec.png",
+    "static/media/contactus.png": "/static/media/contactus.a5a1265a79574a148766.png",
+    "static/media/ecommeceimgone.jpg": "/static/media/ecommeceimgone.c91b2f63ca0dd91041a4.jpg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/index.html",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "main.4523fea7.css.map": "/static/css/main.4523fea7.css.map",
+    "main.94758ab5.js.map": "/static/js/main.94758ab5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4523fea7.css",
+    "static/js/main.94758ab5.js"
+  ]
+}

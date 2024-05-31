@@ -1,0 +1,101 @@
+.main,
+.next-div {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.main {
+  align-items: center;
+  justify-content: center;
+
+  background-color: #b2533e;
+}
+
+.next-div {
+  height: auto;
+}
+
+.layer h1 {
+  color: #f7e987;
+}
+
+.home,
+.content,
+.buttons,
+.container-carousel,
+.about,
+.card-image {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  background-color: white;
+  color: black;
+  height: auto;
+}
+
+.content h1 {
+  font-size: 6rem;
+  color: #5c8374;
+}
+
+.content p {
+  font-size: 30px;
+}
+.content p,
+.card-image p {
+  /* border: 2px solid white; */
+  border-radius: 10px;
+  font-size: 1rem;
+  padding-inline: 10px;
+  font-weight: bold;
+  color: black;
+}
+
+.buttons,
+.container-carousel,
+.carosual-div {
+  margin-top: 20px;
+}
+
+.container-carousel {
+  width: 100%;
+}
+
+.d-block {
+  height: 300px;
+  /* width: 50vw; */
+}
+
+.buttons {
+  display: flex;
+  flex-direction: row;
+  margin-top: 5px;
+}
+@media (max-width: 700px) {
+  .main {
+    height: 35vh;
+  }
+}
+
+@media (max-width: 470px) {
+  .content p {
+    font-size: 1rem;
+    color: white; /* Adjusted color */
+  }
+
+  .d-block {
+    width: 75vw;
+  }
+}
+
+@media (max-width: 370px) {
+  .d-block {
+    height: 200px;
+    width: 80vw;
+  }
+}
