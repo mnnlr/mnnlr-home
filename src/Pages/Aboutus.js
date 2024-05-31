@@ -1,8 +1,8 @@
-import { useNavigate } from "react-router-dom";
+
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import "../styles/aboutus.css";
-import logo1 from "../assets/logo1.jpeg";
+
 
 const AboutUs = () => {
   return (

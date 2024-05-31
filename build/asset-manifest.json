@@ -1,10 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.4523fea7.css",
-    "main.js": "/static/js/main.94758ab5.js",
+    "main.js": "/static/js/main.bbbe6bb8.js",
     "static/media/medium-shot-woman-working-laptop.jpg": "/static/media/medium-shot-woman-working-laptop.8a95697a319e9616ef86.jpg",
     "static/media/shaking-hand-speaker.jpg": "/static/media/shaking-hand-speaker.9ac83d7e4161d335f50e.jpg",
-    "static/media/career.jpg": "/static/media/career.e5333b5cf7d8300e23f9.jpg",
     "static/media/webdevelopmentimgthree.jpeg": "/static/media/webdevelopmentimgthree.324090b6ea7ba71eeb89.jpeg",
     "static/media/webdevlopmentimgone.jpeg": "/static/media/webdevlopmentimgone.b14578410f5297dff20c.jpeg",
     "static/media/digitalmarkeingimgtwo.jpeg": "/static/media/digitalmarkeingimgtwo.566a6614d2a78dd88566.jpeg",
@@ -14,7 +13,6 @@
     "static/media/appdevimageone.jpeg": "/static/media/appdevimageone.fe1096d964ed9325203d.jpeg",
     "static/media/digitalmarkeingimgfour.jpeg": "/static/media/digitalmarkeingimgfour.76c611787f02f5183eb5.jpeg",
     "static/media/digitalmarkeingimgone.jpeg": "/static/media/digitalmarkeingimgone.4b79390f1d88d2222190.jpeg",
-    "static/media/logo1.jpeg": "/static/media/logo1.61ff3474799622765adf.jpeg",
     "static/media/appdevimagetwo.jpeg": "/static/media/appdevimagetwo.bba72431fb15b33db978.jpeg",
     "static/media/hiring.jpg": "/static/media/hiring.0e83a600899c47e21102.jpg",
     "static/media/mnnlr logoone.jpg": "/static/media/mnnlr logoone.5cdd19f264b8a7bf3e05.jpg",
@@ -34,10 +32,10 @@
     "index.html": "/index.html",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "main.4523fea7.css.map": "/static/css/main.4523fea7.css.map",
-    "main.94758ab5.js.map": "/static/js/main.94758ab5.js.map"
+    "main.bbbe6bb8.js.map": "/static/js/main.bbbe6bb8.js.map"
   },
   "entrypoints": [
     "static/css/main.4523fea7.css",
-    "static/js/main.94758ab5.js"
+    "static/js/main.bbbe6bb8.js"
   ]
 }

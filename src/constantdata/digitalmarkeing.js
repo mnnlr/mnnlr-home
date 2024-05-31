@@ -3,7 +3,7 @@ import digitalmarketingtwo from "../assets/digitalmarketing/digitalmarkeingimgtw
 import digitalmarketingthree from "../assets/digitalmarketing/digitalmarkeingimgthree.jpeg";
 import digitalmarketingfour from "../assets/digitalmarketing/digitalmarkeingimgfour.jpeg";
 
-import hiring from "../assets/icons/hiring.jpg";
+
 
 const DigitalMarketing = [
   {

@@ -4,7 +4,6 @@ import webservices from "../assets/icons/promote.png";
 import ecommerce from "../assets/icons/ecommerce.png";
 import contactus from "../assets/icons/contactus.png";
 import careers from "../assets/icons/career-path.png";
-import hiring from "../assets/icons/hiring.jpg";
 
 const navbardata = [
   {

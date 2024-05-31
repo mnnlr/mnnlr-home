@@ -20,7 +20,7 @@ function Services() {
       title: "Digital Marketing",
       desc: "loresxlwxownncxiwencucneiucnieucloresxlwxownncxiwencucneiucnieucloresxlwxownncxiwencucneiucnieuc",
     },
-    ,
+    
     {
       images: "ecommerce.png",
       title: "E-commerce Solutions",

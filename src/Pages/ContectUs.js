@@ -1,11 +1,11 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 import Grid from "@mui/material/Grid";
 import TextField from "@mui/material/TextField";
 import Typography from "@mui/material/Typography";
 import { Button } from "@mui/material";
 import { FaFacebook, FaLinkedin, FaPhoneAlt, FaTwitter } from "react-icons/fa";
 import { RiInstagramFill } from "react-icons/ri";
-import { MdEmail, MdMarkEmailRead } from "react-icons/md";
+import { MdMarkEmailRead } from "react-icons/md";
 
 const Contact1 = () => {
   return (
