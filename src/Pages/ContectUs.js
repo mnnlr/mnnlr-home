@@ -95,11 +95,11 @@ const Contact1 = () => {
             Contact Info
           </Typography>
           <Typography variant="body1">
-            <a href="tel:+1234567890" className="text-black font-semibold">
+            <a href="mobile no : +91 8309560480" className="text-black font-semibold">
               <FaPhoneAlt
                 style={{ fontSize: "1rem", marginRight: 10, marginTop: 20 }}
               />
-              +1234567890
+              +918309560480
             </a>
           </Typography>
           <Typography
@@ -107,14 +107,14 @@ const Contact1 = () => {
             style={{ marginBottom: 80, marginTop: 20 }}
           >
             <a
-              href="mailto:example@example.com"
+              href="mailto:mnnlr.ceo@gmail.com"
               className="text-black italic"
               style={{ fontSize: "1.4rem", marginRight: "10px" }}
             >
               <MdMarkEmailRead
                 style={{ fontSize: "1.4rem", marginRight: 10 }}
               />
-              example@example.com
+              mnnlr.ceo@gmail.com
             </a>
           </Typography>
           <Typography>
