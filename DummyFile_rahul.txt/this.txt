@@ -1,1 +1,2 @@
 my dummu fiel 
+git remote set-url origin https://github.com/MNNLRRahulPharthyal/mnnlr/mnnlr-home
