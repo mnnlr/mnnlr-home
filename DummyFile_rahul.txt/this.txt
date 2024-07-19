@@ -1,2 +1,3 @@
 my dummu fiel 
 git remote set-url origin https://github.com/MNNLRRahulPharthyal/mnnlr/mnnlr-home
+git remote set-url origin https://github.com/mnnlr/mnnlr-home
